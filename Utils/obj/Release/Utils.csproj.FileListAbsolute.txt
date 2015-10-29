@@ -1,0 +1,13 @@
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\resources\OCSP1.cer
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\resources\OCSP2.cer
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\resources\OCSP3.cer
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\resources\ROOT1.cer
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\resources\ROOT2.cer
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\resources\ROOT3.cer
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\Utils.dll
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\Utils.pdb
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\itextsharp.dll
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\bin\Release\itextsharp.xml
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\obj\Release\Utils.dll
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\obj\Release\Utils.pdb
+D:\Documents\SkyDrive\Work\YAP\Source code\PKI\SignatureValidator\SignValidatorTest\Utils\obj\Release\Utils.csprojResolveAssemblyReference.cache

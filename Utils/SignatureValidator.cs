@@ -33,7 +33,19 @@ namespace Utils
             public bool result { get; set; }
         }
 
-       
+        public struct Cert
+        {
+            public string issuer { get; set; }
+            public string subject { get; set; }
+            public string validFrom { get; set; }
+            public string validTo { get; set; }
+            public string statusDaySigning { get; set; }
+            public string statusToday { get; set; }
+            public bool isHardCertificate { get; set; }
+            public bool isRevocedDateSigning { get; set; }
+            public bool isRevocedToday { get; set; }
+        }
+
         public struct Signature
         {
             public bool visible { get; set; }
